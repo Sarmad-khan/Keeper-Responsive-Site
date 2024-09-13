@@ -1,0 +1,194 @@
+header{
+    padding-inline: 0 !important;
+}
+/* 
+.container-lg {
+    max-width: 1020px !important;
+    padding-left:0px !important ;
+    padding-right:0px !important ;   
+    
+} */
+.top{
+    max-width: 99%  !important;;
+}
+/* section.row{
+    padding: 0 !important;
+} */
+/* .head-ques h5{
+    font-size: 20px;
+
+} */
+
+.right-footer button{
+    
+        color: white;  
+        background-color: #bb0508;
+        width: auto;
+        border: none;
+        font-size:1.67vw;
+    }
+
+.container-fluid{
+    margin: 0 !important;
+}
+
+.para p{
+    font-size: 14px;
+}
+.form-details label{
+    font-size: 0.8rem;
+}
+
+header img{
+    padding: 0 !important;
+}
+
+.tl{
+    padding-left: 0 !important;
+}
+.form-right img{
+    transform: rotate(10deg);
+    width: 100%;
+    /* scale: 1.2; */
+}
+span{
+    color:#bb0508;
+}
+
+.chrg h4{
+    font-size: 1.6rem;
+    
+}
+.chrg h6{
+    font-size: 1.2rem;
+    
+}
+
+.m-btn{
+    border-top:1px solid rgb(91, 83, 83)
+}
+.half{
+    float: right;
+    width:60%;
+}
+.m-btn button{
+    color: white;  
+    background-color: #bb0508;
+    width: auto;
+    border: none;
+    font-size: 5 rem;
+}
+
+.m-b{
+    color: white;  
+    background-color: #bb0508; 
+    width: auto;
+    border: none;
+    font-size: 1.3vw;
+}
+.form-details input{
+    width:100vw;
+    font-size: 1rem;
+    padding: 0;
+    border: 1px solid black;
+    outline: none;
+}
+/* .form-details input::placeholder{
+    font-size: rem;
+} */
+.padding{
+    padding-left: 0.3vw;
+    width:10%;
+}
+.padding-l{
+    padding-left: 0.2vw;
+    /* width:9%; */
+}
+
+
+ .chrg p{
+    font-size: 1.22rem;
+
+
+}
+p.ch  {
+    font-size: 18px;
+
+} 
+.mbl{
+    width: 100%;
+}
+@media(max-width:768.98px){
+    /* .chrg h4{
+        font-size: 3vw;
+        
+    }
+    .chrg h6{
+        font-size: 2.4vw;
+        
+    }
+
+    .chrg p{
+        font-size: 2.4vw;
+        /* line-height: 4vh; */
+    
+    /* }  */
+    .m-btn{
+        border-top:1px solid rgb(91, 83, 83)
+    }
+    .m-btn button{
+        color: white;  
+        background-color: #bb0508;
+        width: auto;
+        border: none;
+        font-size: 1.67vw;
+    }
+    .padding{
+        padding-left: 0.3vw;
+        width:9%;
+    }
+  
+
+}
+
+@media(max-width:576px){
+
+    /* .chrg h4{
+        font-size: 5.3vw;
+        
+    }
+    .chrg h6{
+        font-size: 4vw;
+        
+    }
+
+    .chrg p{
+        font-size: 3.7vw;
+        /* line-height: 4vh; */
+    
+    /* } */ 
+    .m-btn{
+        border-top:1px solid rgb(91, 83, 83)
+    }
+    .m-btn button{
+        color: white;  
+        background-color: #bb0508;
+        width: auto;
+        border: none;
+        font-size:2.67vw;
+    }
+    .padding{
+        padding-left: 0.3vw;
+        width:9%;
+    }
+
+    .m-b{
+        color: white;  
+        background-color: #bb0508; 
+        width: auto;
+        border: none;
+        font-size: 2.67vw;
+    }
+
+}
+
